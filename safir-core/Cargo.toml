@@ -1,13 +1,13 @@
 [package]
 name = "safir-core"
-version = "0.2.2"
+version = "0.2.3"
 edition = "2021"
 description = "Internal lib used to build Safir and Safir-mem"
 authors = ["Graham Keenan graham.keenan@outlook.com"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/Tyrannican/safir"
-repository = "https://github.com/Tyrannican/safir" 
+homepage = "https://github.com/Tyrannican/safir-mem"
+repository = "https://github.com/Tyrannican/safir-mem" 
 keywords = ["terminal", "utility", "key-value", "store", "library"]
 categories = ["command-line-interface"]
 

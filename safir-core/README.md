@@ -2,7 +2,7 @@
 
 ## Notice
 
-:warning: This is now archived and no longer updated :warning:
+:warning: **This is now archived and no longer updated** :warning:
 
 It was ambitious (and worked kinda) but became far too unweildy and complicated when it didn't have to.
 Maybe a rewrite in the future but for now, it's now archived.

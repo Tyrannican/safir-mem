@@ -1,13 +1,13 @@
 [package]
 name = "safir-mem"
-version = "0.3.1"
+version = "0.3.2"
 edition = "2021"
 authors = ["Graham Keenan graham.keenan@outlook.com"]
 license = "MIT OR Apache-2.0"
 description = "In-memory key/value store to share values between different shell sessions"
 readme = "README.md"
-homepage = "https://github.com/Tyrannican/safir"
-repository = "https://github.com/Tyrannican/safir" 
+homepage = "https://github.com/Tyrannican/safir-mem"
+repository = "https://github.com/Tyrannican/safir-mem" 
 keywords = ["cli", "terminal", "utility", "key-value", "store"]
 categories = ["command-line-utilities"]
 
