@@ -1,0 +1,3 @@
+[workspace]
+members = ["safir-mem", "safir-core"]
+resolver = "2"
